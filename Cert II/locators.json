@@ -1,0 +1,135 @@
+{
+    "main.add": {
+        "screenshot": ".images\\main-add-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "address"
+    },
+    "main.infotable": {
+        "screenshot": ".images\\main-infotable-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "model-info"
+    },
+    "main.order": {
+        "screenshot": ".images\\main-order-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "order"
+    },
+    "main.preview": {
+        "screenshot": ".images\\main-preview-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "preview"
+    },
+    "main.q1": {
+        "screenshot": ".images\\main-q1-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "head"
+    },
+    "main.q2c1": {
+        "screenshot": ".images\\main-q2c1-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "id-body-1"
+    },
+    "main.q2c2": {
+        "screenshot": ".images\\main-q2c2-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "id-body-2"
+    },
+    "main.q2c3": {
+        "screenshot": ".images\\main-q2c3-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "id-body-3"
+    },
+    "main.q2c4": {
+        "screenshot": ".images\\main-q2c4-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "id-body-4"
+    },
+    "main.q2c5": {
+        "screenshot": ".images\\main-q2c5-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "id-body-5"
+    },
+    "main.q2c6": {
+        "screenshot": ".images\\main-q2c6-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "id-body-6"
+    },
+    "main.q3": {
+        "screenshot": ".images\\main-q3-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "/html/body/div/div/div[1]/div/div[1]/form/div[3]/input"
+    },
+    "main.showinfo": {
+        "screenshot": ".images\\main-showinfo-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "css",
+        "type": "browser",
+        "value": "DIV.form-group > BUTTON.btn.btn-secondary"
+    },
+    "popup.Iguess": {
+        "screenshot": "",
+        "source": "",
+        "strategy": "css",
+        "type": "browser",
+        "value": "BUTTON.btn.btn-danger"
+    },
+    "popup.okay": {
+        "screenshot": ".images\\popup-okay-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "css",
+        "type": "browser",
+        "value": "BUTTON.btn.btn-dark"
+    },
+    "result.bot": {
+        "screenshot": ".images\\result-bot-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "robot-preview-image"
+    },
+    "result.header": {
+        "screenshot": ".images\\result-header-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "/html/body/div/div/div[1]/div/div[1]/div/div/h3"
+    },
+    "result.orderagain": {
+        "screenshot": ".images\\result-orderagain-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "order-another"
+    },
+    "result.receipt": {
+        "screenshot": ".images\\result-receipt-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "receipt"
+    }
+}
