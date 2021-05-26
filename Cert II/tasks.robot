@@ -180,16 +180,7 @@ Zip PDF Receipts
 
     Archive Folder With Zip    ${CURDIR}${/}output/final/     ${CURDIR}${/}output/Final.zip
 
-# +
-*** Keywords ***
-Read Data from Vault
 
-
-# -
-
-*** Keywords ***
-Seek Input from Human
-    #authoriser name
 
 
 
